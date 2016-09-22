@@ -1,2 +1,2 @@
 # ReduxTest
-redux测试
+redux,github测试

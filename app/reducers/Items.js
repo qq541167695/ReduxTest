@@ -1,6 +1,6 @@
 import Immutable from 'immutable';
 
-const initState = Immutable.fromJS( [ 'a', 'b', 'c' ] );
+const initState = Immutable.fromJS( [ 'a', 'b', 'c', 'd', 'e' ] );
 
 export default ( state = initState, payload )=> {
 
