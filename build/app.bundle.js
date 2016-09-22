@@ -2091,7 +2091,7 @@ webpackJsonp([0],{
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	var initState = _immutable2.default.fromJS(['a', 'b', 'c']);
+	var initState = _immutable2.default.fromJS(['a', 'b', 'c', 'd', 'e']);
 
 	exports.default = function () {
 	    var state = arguments.length <= 0 || arguments[0] === undefined ? initState : arguments[0];
